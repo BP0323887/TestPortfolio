@@ -10,7 +10,7 @@ remote_theme: poole/hyde
 hyde:
   sidebar: true
   sidebar_text: "A portfolio showcasing my work in data science and financial services insight."
-  logo: "/assets/images/logo.png"
+  logo: "/assets/selfie.jpeg"
 
 # Build settings
 markdown: kramdown
