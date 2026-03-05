@@ -1,0 +1,18 @@
+
+title: "Luke Waldron – Data Portfolio"
+description: "Data Science | Analytics | FOS Insight | Machine Learning Projects"
+baseurl: ""
+url: "https://<your-username>.github.io"
+
+remote_theme: poole/hyde
+
+# Sidebar settings
+hyde:
+  sidebar: true
+  sidebar_text: "A portfolio showcasing my work in data science and financial services insight."
+  logo: "/assets/images/logo.png"
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
